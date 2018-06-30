@@ -2,7 +2,7 @@
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-Developed by [Caitlin Westerfield](http://caitlinwesterfield.com)
+Developed by [Caitlin Westerfield](http://caitlinwesterfield.com/)
 
 
 ## Copyright and License
