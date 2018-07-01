@@ -1,0 +1,11 @@
+.navbar-red {
+  color: #ff0000;
+}
+
+.navbar-black {
+  color: black;
+}
+
+.navbar-black:hover {
+  color: #ff0000;
+}
